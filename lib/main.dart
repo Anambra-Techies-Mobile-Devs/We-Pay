@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-
-import 'view/home/splash/splashscreen.dart';
+import 'package:flutter_clean_architecture/flutter_clean_architecture.dart';
+import 'package:we_pay/ui/views/splash/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
