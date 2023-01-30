@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:we_pay/view/home/home.dart';
+import 'package:we_pay/ui/views/home/home.dart';
 
 class SplashScreen extends StatelessWidget {
   const SplashScreen({super.key});
